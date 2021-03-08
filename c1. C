@@ -1,0 +1,7 @@
+//Program to find sum in array
+
+#include<stdio.h>
+
+int main() 
+{
+ 
